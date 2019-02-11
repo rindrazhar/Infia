@@ -1,0 +1,53 @@
+.container7{
+    margin: 0;
+    text-decoration: none;
+    padding: 20px 20px;
+    font-size: 18.82px;
+}
+
+.container7 .list1{
+    text-decoration: none;
+    font-family: 'Montserrat';
+    display: grid;
+    grid-template-columns: 80% auto;
+    list-style-type: none;
+    padding: 20px 50px;
+}
+
+.container7 .list1 h1{
+    font-size: 24.3px;
+}
+
+.container7 .list1 a{
+    text-decoration: none;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    font-size: 18.69px;
+}
+
+.container7 .list2{
+    margin: 0;
+    padding: 10px 20px;
+    font-family: 'Montserrat';
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    list-style-type: none;
+    color: black;
+}
+
+.container7 .list2 button{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px 15px;
+    font-size: 12.15px;
+    font-family: 'Montserrat';
+    cursor: pointer;
+}
+
+.container7 .list2 p{
+    color: black;
+    font-size: 16.82px;
+}

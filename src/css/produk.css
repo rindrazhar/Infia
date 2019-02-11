@@ -1,0 +1,50 @@
+.container5{
+    padding: 20px 20px;
+}
+
+.judul{
+    padding: 0;
+}
+
+.konten{
+    margin: 0;
+    padding: 20px 100px;
+    font-family: 'Montserrat';
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    list-style-type: none;
+}
+
+.judul h1{
+    font-size: 24.43px;
+    font-family: 'Montserrat';
+}
+
+.judul img{
+    padding: 0px 20px;
+}
+
+.konten p{
+  color: black;
+  font-size: 13.08px;
+  text-align: center;
+}
+
+.container6 ul{
+    margin: 0;
+    padding: 20px 20px;
+    display: grid;
+    grid-template-columns: repeat(6, auto);
+    list-style-type: none;
+}
+
+.container6{
+    padding: 10px 20px;
+    background: #F4F4F4;
+}
+
+h1{
+    padding: 20px 20px;
+    font-size: 20.56px;
+    font-family: 'Montserrat';
+}

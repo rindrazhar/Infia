@@ -1,0 +1,79 @@
+.container2{
+    padding: 50px 50px;
+    font-family: 'Montserrat';
+    color: black;
+}
+
+.container2 ul{
+    margin: 0;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 60% auto;
+    list-style-type: none;
+}
+
+.container2 p{
+    font-size: 24.3px;
+    color: black;
+}
+
+.container2 .p1{
+    font-size: 20.56px;
+}
+
+.container2 .p2{
+    font-size: 16.82px;
+}
+
+.container3{
+    padding: 50px 50px;
+    font-family: 'Montserrat';
+    color: black;
+}
+
+.container3 ul{
+    margin: 0;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 50% auto;
+    list-style-type: none;
+}
+
+.container3 p{
+    font-size: 24.3px;
+    color: black;
+}
+
+.container3 .p1{
+    font-size: 20.56px;
+}
+
+.container3 .p2{
+    font-size: 16.82px;
+}
+
+.container4{
+    padding: 60px 150px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.container4 ul{
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(4,auto);
+    list-style-type: none;
+}
+
+.container4 .p1{
+    font-family: 'Montserrat';
+    font-size: 18.89px;
+    color: black;
+}
+
+.container4 .p2{
+    font-family: 'Open Sans';
+    font-size: 16.82px;
+    color: black;
+}

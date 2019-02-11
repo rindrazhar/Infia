@@ -1,0 +1,41 @@
+.container1{
+    margin: 0;
+    background: #23B7D4;
+}
+
+.list1{
+    margin: 0;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 90% auto;
+    list-style-type: none;
+}
+
+.list2{
+    padding: 120px 100px;
+    display: grid;
+    text-decoration: none;
+    grid-template-columns: 10% 40% auto;
+    list-style-type: none;
+}
+
+p{
+    font-family: 'Montserrat';
+    font-size: 56.07px;
+    color: white;
+}
+
+button{
+    color:white;
+    background: #23B7D4;
+    border: 2px solid white;
+    text-align: center;
+    padding: 10px 15px;
+    font-size: 13.48px;
+    font-family: 'Montserrat';
+    cursor: pointer;
+}
+
+.list2 .gambar3{
+    padding: 70px 0;
+}

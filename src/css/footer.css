@@ -1,0 +1,24 @@
+.container8 ul{
+  background: #97C7EB;
+  margin: 0;
+  padding: 5em 2em;
+  font-family: 'Montserrat';
+  line-height: normal;
+  font-size: 12.15px;
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  list-style-type: none;
+}
+
+.container8 b{
+  font-size: 14.95px;
+}
+
+.container8 p{
+  font-size: 12.15px;
+}
+
+.container8 img{
+  padding: 5px 5px;
+}
